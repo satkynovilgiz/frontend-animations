@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 Frontend Animation Projectsssss
+# 🎨 Frontend Animation Projectssss
 
 [![GitHub Stars](https://img.shields.io/github/stars/satkynovilgiz/frontend-animations?style=flat-square&color=blue)](https://github.com/satkynovilgiz/frontend-animations/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/satkynovilgiz/frontend-animations?style=flat-square&color=green)](https://github.com/satkynovilgiz/frontend-animations/network/members)
